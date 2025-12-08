@@ -1,0 +1,9 @@
+{
+	"name": "adfactoryhari",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5bdc5a1c-670e-4d90-add4-8464c980cfad",
+		"tenantId": "1b626c73-80df-4b24-b1bb-3ae7aced2654"
+	}
+}
