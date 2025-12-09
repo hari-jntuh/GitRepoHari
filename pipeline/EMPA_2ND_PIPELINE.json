@@ -1,0 +1,17 @@
+{
+	"name": "EMPA_2ND_PIPELINE",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait1",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 100
+				}
+			}
+		],
+		"annotations": []
+	}
+}
